@@ -9,7 +9,7 @@ name = input('Please enter your name: ')
 print ('Hello ' + name)
 # read in age as well as name
 # input ('Ok to say your age too?: ')
-# I need to add a variable to age so moving line 10 to a comment and 12 to correct format
+# I need to add a variable to age so moving line 10 to a comment and 13 to correct format
 age = input('Ok to say your age too?: ')
 # Now need to also output age
 print('Happy days you are only ' + str(age) )
