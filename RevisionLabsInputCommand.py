@@ -5,7 +5,7 @@
 # input('Please enter your name: ')
 # input needs to be stored as variable
 name = input('Please enter your name: ')
-# Line 4 is only requesting input so at this point when I run, there is no output - I need a print function
+# Line 5 is only requesting input so at this point when I run, there is no output - I need a print function
 print ('Hello ' + name)
 # read in age as well as name
 # input ('Ok to say your age too?: ')
